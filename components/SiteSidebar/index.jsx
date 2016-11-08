@@ -5,7 +5,7 @@ import { config } from 'config'
 import SiteNav from '../SiteNav'
 import SiteLinks from '../SiteLinks'
 import './style.css'
-import profilePic from '../../pages/logo.png'
+import profilePic from '../../pages/logo.jpg'
 
 class SiteSidebar extends React.Component {
     render() {
