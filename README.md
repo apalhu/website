@@ -1,29 +1,18 @@
-# Lumen
+# apalhu.org website
 
-Gatsby starter for creating a blog
+## Devel
 
-## Features
-+ Inline CSS.
-+ Clean and extensible code.
-+ Six simple components: SiteSidebar, SiteNav, SiteLinks, SitePost, SitePage, ReadNext.
-+ [peterramsing/lost](https://github.com/peterramsing/lost) as a base for Grid.
-+ [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) as a base for Typography.
-
-## Installing
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new lumen https://github.com/wpioneer/gatsby-starter-lumen`
-
+## Install
+`git clone `
 ## Running in development
 `gatsby develop`
 
-![](http://i.imgur.com/422y5GV.png)
 
-## Ports
+## License and rights
+Developed using [gatsby](https://github.com/gatsbyjs/gatsby) and the
+[Lumen](https://github.com/wpioneer/gatsby-starter-lumen) starter.
 
-[Statinamic port](https://github.com/thangngoc89/statinamic-theme-lumen) by [Khoa Nguyen](https://github.com/thangngoc89)
-
-## License
-The MIT license.
+### The MIT license.
 
 Copyright (c) 2016 Alexandr Shelepenok [ashk.io](http://ashk.io)
 
