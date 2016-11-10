@@ -6,11 +6,8 @@ class SiteHeader extends React.Component {
     const {route} = this.props
     const post = route.page.data
     return (
-      <div className='text'>
-        <h2>Título{ post.title }</h2>
-        <div>Contenido ....</div>
-        <div dangerouslySetInnerHTML={ {    __html: post.body} } />
-        <h2>Artículos</h2>
+      <div className='main-inner'>
+        <h2>Compartint una visió racional, crítica, científica i ètica del món</h2>
       </div>
     );
   }

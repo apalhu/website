@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "Calendario"
 layout: page
-path: "/about"
+path: "/cal"
 ---
 
 ## Acerca de

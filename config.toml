@@ -1,13 +1,13 @@
 siteTitle = "APALHU"
-siteDescr = "Associació per a 'humanisme"
+siteDescr = ""
 siteAuthor = "www.apalhu.org"
 
 siteTelegramUrl = "#"
 siteTwitterUrl = "#"
 siteGithubUrl = "#"
-siteEmailUrl = "#"
+siteEmailUrl = "mailto:apalhu.org@gmail.com"
 siteRssUrl = "#"
-siteVkUrl = "#"
+siteFacebook = "https://www.facebook.com/Associaci%C3%B3-per-a-lHumanisme-563001543895860"
 
 googleAnalyticsId = ""
 
