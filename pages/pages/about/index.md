@@ -9,16 +9,16 @@ path: "/about"
 l'humanisme conforme està descrit en la declaració d'Amsterdam. Les
 activitats que realitza són:
 
- -Divulgació científica
+ - Divulgació científica
 
- -Conferències
+ - Conferències
 
- -Xarrades/col·loquis
+ - Xarrades/col·loquis
 
- -Grups de lectura
+ - Grups de lectura
 
- -Activitats socials
+ - Activitats socials
 
- -Campanyes d'informació
+ - Campanyes d'informació
 
- -Qualsevol altra que estiga en la mateixa línia.
+ - Qualsevol altra que estiga en la mateixa línia.

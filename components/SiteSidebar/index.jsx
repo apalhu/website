@@ -40,7 +40,7 @@ class SiteSidebar extends React.Component {
                   <footer>
                     <SiteLinks {...this.props}/>
                     <p className='copyright'>
-                      &copy; All rights reserved.
+                      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><i className='fa fa-creative-commons'></i> Creative Commons</a>
                     </p>
                   </footer>
                 </div>

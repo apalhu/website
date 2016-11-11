@@ -65,6 +65,10 @@
 	line-height: 31px;
 	margin-bottom: 31px;
 }
+.blog-single a {
+	color: #5d93ff;
+}
+
 .gohome {
 	position: fixed;
 	left: 20px;
