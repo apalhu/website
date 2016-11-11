@@ -23,8 +23,8 @@ DECLARACIÓ HUMANISTA D'AMSTERDAM 2002
 ***
    El nostre treball és fer als sers humans conscients, en els termes més senzills possibles, del que pot significar l'humanisme per a ells i a què els compromet. Utilitzant la investigació lliure, el poder de la ciència i la imaginació creativa per a la promoció de la pau, i al servei de la compassió, tenim la confiança de comptar amb els mitjans adequats per a resoldre els nostres problemes. Fem una crida als que compartisquen esta convicció per unir-se a nosaltres en esta empresa.
 
-Congrés de la Unió Internacional Ètica Humanista, amb representants en l’ONU:    www.iheu.org
+Congrés de la Unió Internacional Ètica Humanista, amb representants en l’**ONU**:    www.iheu.org
 
-  Humanistes coneguts: Carl Sagan, Isaac Asimov, Umberto Eco, Albert Einstein, Noam Chomsky, Walt Withman, Erich Fromm, Bertrand Russell, Abraham Maslow, Nicola Tesla, Friedrich Schiller, Johannes Brahms, Leonard Bernstein, Albert Ellis, Stephen Fry, Neil deGrasse Tyson..
+  **Humanistes coneguts**: Carl Sagan, Isaac Asimov, Umberto Eco, Albert Einstein, Noam Chomsky, Walt Withman, Erich Fromm, Bertrand Russell, Abraham Maslow, Nicola Tesla, Friedrich Schiller, Johannes Brahms, Leonard Bernstein, Albert Ellis, Stephen Fry, Neil deGrasse Tyson..
 
   [Descarregar PDF](declaracio_humanista_amsterdam.pdf)
