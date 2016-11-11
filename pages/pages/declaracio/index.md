@@ -27,4 +27,4 @@ Congrés de la Unió Internacional Ètica Humanista, amb representants en l’ON
 
   Humanistes coneguts: Carl Sagan, Isaac Asimov, Umberto Eco, Albert Einstein, Noam Chomsky, Walt Withman, Erich Fromm, Bertrand Russell, Abraham Maslow, Nicola Tesla, Friedrich Schiller, Johannes Brahms, Leonard Bernstein, Albert Ellis, Stephen Fry, Neil deGrasse Tyson..
 
-  [Descarregar PDF](declaracio_humanista.pdf)
+  [Descarregar PDF](declaracio_humanista_amsterdam.pdf)
