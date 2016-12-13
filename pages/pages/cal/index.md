@@ -23,8 +23,18 @@ Si voleu veure informació d'este brillant científic que ha descobert, entre al
 
   https://es.wikipedia.org/wiki/Iv%C3%A1n_Mart%C3%AD_Vidal
 
+**12 Gener 2017**, de 19'30 a 21'30 en el pub Irish d'Ontinyent.
+
+Com cada primer dijous de mes, ens juntem gent de l'associació, simpatitzants, i qualsevol que vulga vindre per conéixer-nos i fer-nos una cerveseta. Després els que volem anem a sopar.  
+
 
 **27 Gener 2017**, a les 20'00h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
 
 "Ciència en el pub"
 Xarrada a càrrec del filòsof de la ciència i neurocientífic Angelo Fasce: "Què és la consciència des del punt de vista neurocientífic".
+
+**22 Febrer 2017**, a les 19'30h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
+
+Grup de lectura: "El alma está en el cerebro", d'Eduard Punset.
+
+  
