@@ -25,7 +25,7 @@ Si voleu veure informació d'este brillant científic que ha descobert, entre al
 
 **12 Gener 2017**, de 19'30 a 21'30 en el pub Irish d'Ontinyent.
 
-Com cada primer dijous de mes, ens juntem gent de l'associació, simpatitzants, i qualsevol que vulga vindre per conéixer-nos i fer-nos una cerveseta. Després els que volem anem a sopar.  
+Com cada primer dijous de mes, (el segon en este cas, al ser vespra de festiu el primer) ens juntem gent de l'associació, simpatitzants, i qualsevol que vulga vindre per conéixer-nos i fer-nos una cerveseta. Després els que volem anem a sopar.  
 
 
 **27 Gener 2017**, a les 20'00h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
@@ -36,5 +36,3 @@ Xarrada a càrrec del filòsof de la ciència i neurocientífic Angelo Fasce: "Q
 **22 Febrer 2017**, a les 19'30h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
 
 Grup de lectura: "El alma está en el cerebro", d'Eduard Punset.
-
-  
