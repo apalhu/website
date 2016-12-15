@@ -22,6 +22,10 @@ class SiteNav extends React.Component {
                   </Link>
                 </li>
                 <li>
+                  <Link to={prefixLink('/links/')} className={ location.pathname === prefixLink('/links/') ? "current" : null }> Enllaços d'interés
+                  </Link>
+                </li>
+                <li>
                   <Link to={prefixLink('/declaracio/')} className={ location.pathname === prefixLink('/declaracio/') ? "current" : null }> Declaració Humanista Amsterdam
                   </Link>
                 </li>
