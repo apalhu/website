@@ -4,10 +4,9 @@ layout: page
 path: "/contact"
 ---
 
-Pots enviar-nos un mail a apalhu.org@gmail.com per demanar informació
-o fer qualsevol comentari.
-En este correu pots demanar-nos que t'incloguem en la llista de
-correu per estar al dia sobre les activitats que organitzem
+Pots fer-te soci i col·laborar amb nosaltres amb una aportació anual de 10, 20, 30 euros o la quantitat que tu vulgues. Escriu-nos a apalhu.org@gmail.com
+
+En este correu també pots demanar-nos informació, fer-nos qualsevol comentari, o demanar-nos que t'incloguem en la llista de correu per estar al dia sobre les activitats que anem organitzant.
 
 Ens trobaràs també en <span><i className='fa fa-facebook'></i> [facebook](https://www.facebook.com/Associaci%C3%B3-per-a-lHumanisme-563001543895860)
 <span>

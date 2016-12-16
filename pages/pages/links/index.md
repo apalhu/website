@@ -4,8 +4,14 @@ layout: page
 path: "/links"
 ---
 
-Cambiar esto
+- Pots saber si ets humanista amb el test de l'Associació Humanista Britànica. Amb el traductor del teu navegador pots fer el test en el teu idioma:
 
-- Puedes entrar en [ALBA Software](http://www.albasoft.com) ...
+   <a ref="https://humanism.org.uk/humanism/how-humanist-are-you/" target="_blank">Sóc humanista?
 
-- Puedes entrar (pestaña nueva) <a href="http://www.albasoft.com" target="_blank">ALBA Software</a>
+- Ací tens pàgines humanistes de tot el món:
+
+   <a ref="https://americanhumanist.org/" target="_blank">Associació Humanista Americana
+
+   <a ref="http://iheu.org/" target="_blank">Unió Ètica Humanista Internacional
+
+   <a ref="http://humanists.bolnuevo.com/" target="_blank">HUMANISTS OF MURCIA
