@@ -8,7 +8,6 @@ path: "/links"
 
    <a href="https://humanism.org.uk/humanism/how-humanist-are-you/" target="_blank">Sóc humanista?
 
-
 - Ací tens pàgines humanistes del món:
 
    <a href="https://americanhumanist.org/" target="_blank">Associació Humanista Americana

@@ -18,7 +18,7 @@ Com cada primer dijous de mes, ens juntem gent de l'associació, simpatitzants, 
 
 **29 Desembre 2016**, a les 19,30 en la Casa de la cultura-Palau dels Barons de Santa Barbara d'Ontinyent. Carrer Maians, 26.
 
-L'astrònom Ivan Martí-Vidala ens donarà la xarrada "D'on venim i on anem", on ens parlarà de la formació i evolució de gal·làxies, estrelles, planetes, i de tot l'univers conegut.       
+L'astrònom Ivan Martí-Vidal ens donarà la xarrada "D'on venim i on anem", on ens parlarà de la formació i evolució de gal·làxies, estrelles, planetes, i de tot l'univers conegut.       
 Si voleu veure informació d'este brillant científic que ha descobert, entre altres coses, una indigestió en un forat negre, podeu visitar:
 
   https://es.wikipedia.org/wiki/Iv%C3%A1n_Mart%C3%AD_Vidal
