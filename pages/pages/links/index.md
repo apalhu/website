@@ -15,3 +15,19 @@ path: "/links"
    <a href="http://iheu.org/" target="_blank">Unió Ètica Humanista Internacional</a>
 
    <a href="http://humanists.bolnuevo.com/" target="_blank">HUMANISTS OF MURCIA</a>
+
+   <a href="https://thehumanist.com/" target="_blank">Revista L'Humanista</a>
+
+   <a href="https://humanism.org.uk/" target="_blank">Associació Humanista Britànica</a>
+
+### Vídeos fascinants:
+
+   <a href="https://www.youtube.com/watch?v=juhFnXCNQMI" target="_blank">CARL SAGAN (Humanista de l'any 1981): Un punt blau pàl·lid</a>
+
+   <a href="https://www.youtube.com/watch?v=hnIaPQq2rME" target="_blank">Neil deGrasse Tyson (Premi "Isaac Asimov" de l'Associació Humanista Americana 2009: El fet més sorprenent)</a>
+
+### Vídeos crítics:
+
+   <a href="https://www.youtube.com/watch?v=zCKzXfInW3U" target="_blank">Richard Dawkins (Humanista de l'any 1996): El miratge de Déu</a>  
+
+   <a href="https://www.youtube.com/watch?v=NWkXBoQudws" target="_blank">Neil deGrasse Tyson (Premi "Isaac Asimov" de l'Associació Humanista Americana 2009: La raó i la fe són irreconciliables</a>
