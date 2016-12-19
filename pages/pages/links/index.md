@@ -24,10 +24,10 @@ path: "/links"
 
    <a href="https://www.youtube.com/watch?v=juhFnXCNQMI" target="_blank">CARL SAGAN (Humanista de l'any 1981): Un punt blau pàl·lid</a>
 
-   <a href="https://www.youtube.com/watch?v=hnIaPQq2rME" target="_blank">Neil deGrasse Tyson (Premi "Isaac Asimov" de l'Associació Humanista Americana 2009: El fet més sorprenent)</a>
+   <a href="https://www.youtube.com/watch?v=hnIaPQq2rME" target="_blank">Neil deGrasse Tyson (Premi "Isaac Asimov" de l'Associació Humanista Americana 2009): El fet més sorprenent</a>
 
 ### Vídeos crítics:
 
    <a href="https://www.youtube.com/watch?v=zCKzXfInW3U" target="_blank">Richard Dawkins (Humanista de l'any 1996): El miratge de Déu</a>  
 
-   <a href="https://www.youtube.com/watch?v=NWkXBoQudws" target="_blank">Neil deGrasse Tyson (Premi "Isaac Asimov" de l'Associació Humanista Americana 2009: La raó i la fe són irreconciliables</a>
+   <a href="https://www.youtube.com/watch?v=NWkXBoQudws" target="_blank">Neil deGrasse Tyson (Premi "Isaac Asimov" de l'Associació Humanista Americana 2009): La raó i la fe són irreconciliables</a>
