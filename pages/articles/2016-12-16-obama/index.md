@@ -15,6 +15,6 @@ Pots veure la notícia en el següent enllaç i traduir-la amb el teu navegador:
 
 Açò suposa un canvi importantíssim, abans hi havia només llibertat religiosa, però no llibertat de consciència, ja que no estava reconegut el dret a no tindre religió. La nova llei condemna la discriminació "a no teistes, humanistes i ateus". Esta discriminació ha arribat a l'extrem d'haver sentències judicials recents en Estats Units que neguen la custòdia a pares o mares explícitament per ser ateus, i a la prohibició encara vigent en alguns estats d'explicar en les escoles l'evolució de les espècies per considerar-la una aberració dels ateus.
 
-La llei espanyola teòricament reconeix el dret a no tindre religió, però de facto l'elimina al dificultar l'apostasia fins a un punt ridícul, segons fonts directes de l'agència de protecció de dades, obligant a tots els batejats a pagar la religió que professen a la força amb els seus diners, ja que cada batejat compta a l'hora de destinar impostos a mantindre l'església.
+La llei espanyola teòricament reconeix el dret a no tindre religió, però de facto l'elimina al dificultar l'apostasia fins a un punt ridícul, segons fonts directes de l'Agència de Protecció de Dades, obligant a tots els batejats a pagar la religió que professen a la força amb els seus diners, ja que cada batejat compta a l'hora de destinar impostos a mantindre l'església.
 
 Esperem que este important canvi en Estats Units servisca d'exemple i prompte comptem amb lleis que garantisquen realment la llibertat de consciència en tot el món.
