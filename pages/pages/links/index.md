@@ -8,6 +8,10 @@ path: "/links"
 
    <a href="https://humanism.org.uk/humanism/how-humanist-are-you/" target="_blank">Sóc humanista?</a>
 
+### Visita el nostre canal de Youtube
+
+   <a href="https://www.youtube.com/channel/UCg1t1lowlmYEtyEYdQUK6tw" target="_blank">Canal de Youtube de l'Associació per a l'humanisme</a>
+
 ### Ací tens pàgines humanistes del món:
 
    <a href="https://americanhumanist.org/" target="_blank">Associació Humanista Americana</a>
