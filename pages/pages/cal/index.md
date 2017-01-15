@@ -5,34 +5,26 @@ layout: page
 path: "/cal"
 ---
 
-**23 Novembre 2016**, a les 19'30 en el pub Emili d'Ontinyent. Carrer Joan XXIII, 1.
-
-Grup de lectura: "El arte de no amargarse la vida, de Rafael Santandreu"
-
-  Un grup de gent ha treballat especialment el contingut d'este llibre. Ens contaran el que han fet, i entre tots el comentarem i compartirem experiències.
-
-**1 Desembre 2016**, de 19'30 a 21'30 en el pub Irish d'Ontinyent.
-
-Com cada primer dijous de mes, ens juntem gent de l'associació, simpatitzants, i qualsevol que vulga vindre per conéixer-nos i fer-nos una cerveseta. Després els que volem anem a sopar.
-
-
-**29 Desembre 2016**, a les 19,30 en la Casa de la cultura-Palau dels Barons de Santa Barbara d'Ontinyent. Carrer Maians, 26.
-
-L'astrònom Ivan Martí-Vidal ens donarà la xarrada "D'on venim i on anem", on ens parlarà de la formació i evolució de gal·làxies, estrelles, planetes, i de tot l'univers conegut.       
-Si voleu veure informació d'este brillant científic que ha descobert, entre altres coses, una indigestió en un forat negre, podeu visitar:
-
-  https://es.wikipedia.org/wiki/Iv%C3%A1n_Mart%C3%AD_Vidal
-
-**12 Gener 2017**, de 19'30 a 21'30 en el pub Irish d'Ontinyent.
-
-Com cada primer dijous de mes, (el segon en este cas, al ser vespra de festiu el primer) ens juntem gent de l'associació, simpatitzants, i qualsevol que vulga vindre per conéixer-nos i fer-nos una cerveseta. Després els que volem anem a sopar.  
-
-
 **27 Gener 2017**, a les 20'00h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
 
 "Ciència en el pub"
 Xarrada a càrrec del filòsof de la ciència i neurocientífic Angelo Fasce: "Què és la consciència des del punt de vista neurocientífic".
 
+**2 Febrer 2017**, de 19'30 a 21'30 en el Irish Pub d'Ontinyent.
+
+"Cerveseta en el pub"
+Com cada primer dijous de mes, ens trobem gent de l'associació i gent que vol conéixer-la. Després anem a sopar qui vulga.
+
 **22 Febrer 2017**, a les 19'30h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
 
-Grup de lectura: "El alma está en el cerebro", d'Eduard Punset.
+Grup de lectura: "El alma está en el cerebro", d'Eduard Punset. Comentarem este llibre i també possibles llibres per a futures activitats.
+
+**26 Abril 2017**, a les 19'30h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
+
+Grup de Vídeo / Lectura: En la seua conferència "Tenim el control de les nostres decisions?", el psicòleg Dan Ariely comenta el seu llibre "Predictably Irrational" (Previsiblement Irracionals), irracionalment traduït a l'espanyol com "Las trampas del deseo"
+
+Podeu veure la conferència de 17 minuts en l'enllaç <a href="https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions" target="_blank">Conferència Dan Ariely</a>
+
+En quant al llibre, podeu escriure'ns a apalhu.org@gmail.com i vos proporcionarem un exemplar perquè pugueu llegir-lo.
+
+Podeu triar entre veure la conferència i/o llegir el llibre i vindre per comentar-ho tot junts.
