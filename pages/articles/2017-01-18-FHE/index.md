@@ -2,7 +2,7 @@
 title: La nostra associació ha sigut admesa en la Federació Humanista Europea
 date: "2017-01-18T13:45"
 layout: post
-path: "/Federació Humanista Europea/"
+path: "/FHE/"
 category: "La nostra associació ha sigut admesa en la Federació Humanista Europea"
 description: "La Federació Humanista Europea (EHF), amb seu en Brusel·les, ha admés"
 ---
