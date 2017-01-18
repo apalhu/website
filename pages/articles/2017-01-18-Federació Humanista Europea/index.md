@@ -4,8 +4,9 @@ date: "2017-01-18T13:45"
 layout: post
 path: "/Federació Humanista Europea/"
 category: "La nostra associació ha sigut admesa en la Federació Humanista Europea"
-description: "La Federació Humanista Europea (EHF), amb seu en Brusel·les, ha admés "
+description: "La Federació Humanista Europea (EHF), amb seu en Brusel·les, ha admés"
 ---
+
 La Federació Humanista Europea (EHF) ha reconegut l'Associació per a l'humanisme com a membre associat. Podeu veure el llistat de les més de 60 associacions europees en el següent enllaç: <a href="http://humanistfederation.eu/membres.php" target="_blank">Llistat de membres de la Federació Humanista Europea</a>
 
 I podeu visitar la pàgina principal de la EHF ací: <a href="http://humanistfederation.eu/index.php" target="_blank">Web de la Federació Humanista Europea</a>
