@@ -5,7 +5,9 @@ path: "/about"
 ---
 
 
-  L'Associació per a l'humanisme es localitza en la Vall d'Albaida i voltants. Les activitats que realitza són:
+  L'Associació per a l'humanisme es localitza en la Vall d'Albaida i voltants. Es membre de la Federació Humanista Europea. Podeu veure les més de 60 associacions europees ací: <a href="http://humanistfederation.eu/membres.php" target="_blank">Llistat d'associacions de la Federació Humanista Europea</a>
+
+  Les activitats que realitza són:
 
  - Divulgació científica
  - Conferències
