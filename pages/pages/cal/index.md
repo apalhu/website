@@ -5,19 +5,15 @@ layout: page
 path: "/cal"
 ---
 
-**27 Gener 2017**, a les 20'00h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
-
-"Ciència en el pub"
-Xarrada a càrrec del filòsof de la ciència i neurocientífic Angelo Fasce: "Què és la consciència des del punt de vista neurocientífic".
-
-**2 Febrer 2017**, de 19'30 a 21'30 en el Irish Pub d'Ontinyent.
-
-"Cerveseta en el pub"
-Com cada primer dijous de mes, ens trobem gent de l'associació i gent que vol conéixer-la. Després anem a sopar qui vulga.
-
 **22 Febrer 2017**, a les 19'30h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
 
 Grup de lectura: "El alma está en el cerebro", d'Eduard Punset. Comentarem este llibre i també possibles llibres per a futures activitats.
+
+**10 Març 2017**, a les 20'00h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
+
+4700 religions... Necessitem una?
+
+Xarrada a càrrec de Jesús López, membre de la Sociedad para el Avance del Pensamiento Crítico.
 
 **26 Abril 2017**, a les 19'30h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
 
