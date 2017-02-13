@@ -15,7 +15,7 @@ Cerveseta en el pub: com cada primer dijous de mes, ens juntem gent de l'associa
 
 **10 Març 2017**, a les 20'00h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
 
-4700 religions... Necessitem una?
+4200 religions... Necessitem una?
 
 Xarrada a càrrec de Jesús López, membre de la Sociedad para el Avance del Pensamiento Crítico.
 
