@@ -1,6 +1,6 @@
 ---
 title: Trobada de Mortals a Ontinyent 27 i 28 de Maig 2017
-date: "2017-03-18T16:45"
+date: "2017-03-06T16:45"
 layout: post
 path: "/Trobada/"
 category: "Trobada de Mortals a Ontinyent 27 i 28 de Maig 2017"
