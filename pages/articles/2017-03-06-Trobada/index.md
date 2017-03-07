@@ -8,14 +8,20 @@ description: "Celebrem la primera Trobada per posar en contacte diverses"
 ---
 Celebrem la primera trobada per posar en contacte diverses associacions amb una visió racional, crítica, científica i ètica del món, sense creences sobrenaturals:
 
--Associació per a l'humanisme
--València Laica, pertanyent a Europa Laica
--Avall, Associació Valenciana d'Ateus i Lliurepensadors
--Escépticos en el pub, València
--ARP, Sociedad para el Avance del Pensamiento Crítico
--Federació Humanista Europea
--Humanists of Murcia, associació majoritàriament de britànics i irlandesos residents en Múrcia.
--ANSE, Asociación de Naturalistas del Sureste, Múrcia.
+
+*Associació per a l'humanisme
+
+*València Laica, pertanyent a Europa Laica
+
+*Avall, Associació Valenciana d'Ateus i Lliurepensadors
+
+*Escépticos en el pub, València
+
+*ARP, Sociedad para el Avance del Pensamiento Crítico
+
+*Humanists of Murcia, associació majoritàriament de britànics i irlandesos residents en Múrcia.
+
+
 
 Lloc: Ateneu popular Ca la Mera. C/ Joan Belda Pastor, 10. Ontinyent, València.
 
