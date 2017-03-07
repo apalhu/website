@@ -28,3 +28,9 @@ Podeu veure la conferència de 17 minuts en l'enllaç <a href="https://www.ted.c
 En quant al llibre, podeu escriure'ns a apalhu.org@gmail.com i vos proporcionarem un exemplar perquè pugueu llegir-lo.
 
 Podeu triar entre veure la conferència i/o llegir el llibre i vindre per comentar-ho tot junts.
+
+**27 i 28 de Maig 2017**
+
+Trobada de Mortals
+
+Podeu trobar la informació d'esta activitat en la pàgina principal.
