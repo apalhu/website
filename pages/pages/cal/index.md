@@ -5,19 +5,18 @@ layout: page
 path: "/cal"
 ---
 
-**22 Febrer 2017**, a les 19'30h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
-
-Grup de lectura: "El alma está en el cerebro", d'Eduard Punset. Comentarem este llibre i també possibles llibres per a futures activitats.
-
-**2 Març2017**, de 19'30 a 21'30 en el Irish Pub d'Ontinyent.
-
-Cerveseta en el pub: com cada primer dijous de mes, ens juntem gent de l'associació i gent que vol conéixer-la per xarrar i prendre alguna cosa. Després qui vulga anem a sopar.
 
 **10 Març 2017**, a les 20'00h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
 
 4200 religions... Necessitem una?
 
 Xarrada a càrrec de Jesús López, membre de la Sociedad para el Avance del Pensamiento Crítico.
+
+**6 Abril 2017**, de 19'30 a 21'30, en el Irish Pub d'Ontinyent.
+
+Cerveseta en el Pub
+
+Com cada primer dijous de mes, ens juntem gent de l'associació i gent que vol conéixer-la, per xarrar i compartir una visió racional, crítica, científica i ètica del món.
 
 **26 Abril 2017**, a les 19'30h en el Pub Emili d'Ontinyent, Carrer Joan XXIII, 1.
 
