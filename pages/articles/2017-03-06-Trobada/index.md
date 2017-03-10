@@ -15,6 +15,8 @@ Celebrem la primera trobada per posar en contacte diverses associacions amb una 
 
 *Avall, Associació Valenciana d'Ateus i Lliurepensadors
 
+*IHEU, Unió Ètica Humanista Internacional. Assistirà el membre de la directiva <a href="http://iheu.org/about/staff-and-representatives/" target="_blank">Giovanni Gaetani</a>
+
 *Escépticos en el pub, València
 
 *ARP, Sociedad para el Avance del Pensamiento Crítico
