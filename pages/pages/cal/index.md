@@ -33,3 +33,9 @@ Podeu triar entre veure la conferència i/o llegir el llibre i vindre per coment
 Trobada de Mortals
 
 Podeu trobar la informació d'esta activitat en la pàgina principal.
+
+**25 Juny 2017**, a les 19'30 en l'Ateneu Popular Ca la Mera. C/ Joan Belda Pastor, 10. Ontinyent
+
+Assemblea general de socis.
+
+Valoració i crítiques de les activitats 2016/2017. Projectes i suggerències d'activitats per a 2017/2018. Precs i preguntes. Informació general. Oberta a simpatitzants de l'associació.
