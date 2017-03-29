@@ -9,13 +9,15 @@ description: "Celebrem la primera Trobada per posar en contacte diverses"
 Celebrem la primera trobada per posar en contacte diverses associacions amb una visió racional, crítica, científica i ètica del món, sense creences sobrenaturals:
 
 
+*IHEU, Unió Ètica Humanista Internacional. Assistirà el membre de la directiva <a href="http://iheu.org/about/staff-and-representatives/" target="_blank">Giovanni Gaetani</a>
+
+*EHF, European Humanist Federation. Assistirà Marc Soignet, Comunication and Advocacy Officer
+
 *Associació per a l'humanisme
 
 *València Laica, pertanyent a Europa Laica
 
-*Avall, Associació Valenciana d'Ateus i Lliurepensadors
-
-*IHEU, Unió Ètica Humanista Internacional. Assistirà el membre de la directiva <a href="http://iheu.org/about/staff-and-representatives/" target="_blank">Giovanni Gaetani</a>
+*AVALL, Associació Valenciana d'Ateus i Lliurepensadors
 
 *Escépticos en el pub, València
 
@@ -39,16 +41,16 @@ Programa:
 de la visió racional i crítica del món, idees per a futures
 activitats, eixir de "l'armari" humanista, ateu, racionalista, etc, i qualsevol altre tema que es suggerisca...
 
-  21'30 h: Sopar de germanor amenitzat amb grup musical
+  21'30 h: Sopar de germanor amenitzat amb grup el cantant i guitarrista Pablo Gisbert
 
  Diumenge 28 Maig:
 
-   10'30 h: Visita a Bocairent i voltants a peu.
+   10'30 h: Excursió a peu, des de la Plaça de l'Ajuntament de Bocairent.
 
-   14'00 h: Dinar i tertúlia de cloenda, en lloc encara per determinar.
+   14'00 h: Dinar i tertúlia de cloenda, en Restaurant Casa Chimo, Plaça de l'Ajuntament, 15. Bocairent.
 
    17'00 h: Fi de la Trobada
 
  Preu del sopar: 7 euros   Preu del dinar: Aprox. 15 euros.
 
- Reserves: correu de l'Associació per a l'humanisme: apalhu.org@gmail.com
+ Reserves: tel 639774839 o email de l'Associació per a l'humanisme: apalhu.org@gmail.com
