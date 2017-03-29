@@ -9,7 +9,7 @@ description: "Celebrem la primera Trobada per posar en contacte diverses"
 Celebrem la primera trobada per posar en contacte diverses associacions amb una visió racional, crítica, científica i ètica del món, sense creences sobrenaturals:
 
 
-*IHEU, Unió Ètica Humanista Internacional. Assistirà el membre de la directiva <a href="http://iheu.org/about/staff-and-representatives/" target="_blank">Giovanni Gaetani</a>
+*IHEU, International Humanist Ethical Union. Assistirà el membre de la directiva <a href="http://iheu.org/about/staff-and-representatives/" target="_blank">Giovanni Gaetani</a>
 
 *EHF, European Humanist Federation. Assistirà Marc Soignet, Comunication and Advocacy Officer
 
