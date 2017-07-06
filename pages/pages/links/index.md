@@ -4,7 +4,7 @@ layout: page
 path: "/links"
 ---
 
-- Pots saber si ets humanista amb el test de l'Associació Humanista Britànica. Amb el traductor del teu navegador pots fer el test en el teu idioma:
+Pots saber si ets humanista amb el test de l'Associació Humanista Britànica. Amb el traductor del teu navegador pots fer el test en el teu idioma:
 
    <a href="https://humanism.org.uk/humanism/how-humanist-are-you/" target="_blank">Sóc humanista?</a>
 
