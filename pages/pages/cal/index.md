@@ -6,23 +6,13 @@ path: "/cal"
 ---
 
 
-**27 i 28 de Maig 2017**
+**24 Juliol 2017**, a les 20'30 en l'ermita de Sant Esteve, Ontinyent.
 
-Trobada de Mortals
+Històrica observació astronòmica a Ontinyent. El nostre soci, el prestigiós astrònom Ivan Martí ens mostrarà el pas de l'Estació Espacial Internacional (en la imatge), que eixa nit lluirà en el cel molt més que qualsevol estrella (magnitud -4), a les 22'17 i, després de donar la volta al món, a les 23'55. A més, podrem observar amb un telescopi Júpiter i Saturn, i amb una mica de sort alguna gal·làxia i nebulosa. Sopar baix braç.
 
-Podeu trobar la informació d'esta activitat en la pàgina principal.
+**22 Setembre 2017**, a les 19'30 en el Centre Cultural Caixa Ontinyent. C/ Gomis, 3. Ontinyent
 
-**22 Juny 2017**. a les 19'30 en el Centre Cultural Caixa Ontinyent. C/Gomis, 3. Ontinyent
-
-Projecció-Col·loqui del documental "El Significat de la Vida", de Richard Dawkins.
-
-L'eminent biòleg ens dóna una visió racional i científica del sentit de la vida. Richard Dawkins és responsable d'un gran avanç en l'enteniment de l'evolució de les espècies, i creador del concepte "meme". Després del col·loqui, podeu vindre a sopar amb nosaltres al bar del Robledillo, en la Plaça Sant Domingo. Per favor comuniqueu si penseu vindre al sopar al 639774839.
-
-**25 Juny 2017**, a les 19'30 en l'Ateneu Popular Ca la Mera. C/ Joan Belda Pastor, 10. Ontinyent
-
-Assemblea general de socis.
-
-Valoració i crítiques de les activitats 2016/2017. Projectes i suggerències d'activitats per a 2017/2018. Precs i preguntes. Informació general. Oberta a simpatitzants de l'associació.
+Conferència de Manuel Toharia: Pensar per a ser feliç. Ciència contra pseudociència.
 
 **19 Octubre 2017**, a les 19'30 en el Pub Emili. C/ Joan XXIII, 1. Ontinyent
 
