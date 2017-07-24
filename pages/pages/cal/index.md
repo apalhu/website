@@ -10,9 +10,16 @@ path: "/cal"
 
 Històrica observació astronòmica a Ontinyent. El nostre soci, el prestigiós astrònom Ivan Martí ens mostrarà el pas de l'Estació Espacial Internacional (en la imatge), que eixa nit lluirà en el cel molt més que qualsevol estrella (magnitud -4), a les 22'17 i, després de donar la volta al món, a les 23'55. A més, podrem observar amb un telescopi Júpiter i Saturn, i amb una mica de sort alguna gal·làxia i nebulosa. Sopar baix braç.
 
+**7 Setembre 2017** de 19'30 a 21'30 al Irish Pub d'Ontinyent.
+
+Cerveseta en el pub. La ja tradicional cerveseta de primer dijous de mes per juntar-nos socis d'Apalhu i gent que vulga conéixer l'associació.
+Després anem a sopar qui vulga.
+
+
 **22 Setembre 2017**, a les 19'30 en el Centre Cultural Caixa Ontinyent. C/ Gomis, 3. Ontinyent
 
 Conferència de Manuel Toharia: Pensar per a ser feliç. Ciència contra pseudociència.
+
 
 **19 Octubre 2017**, a les 19'30 en el Pub Emili. C/ Joan XXIII, 1. Ontinyent
 
