@@ -1,13 +1,10 @@
 ---
-title: Conferència de Manuel Toharia
-date: "2017-09-25T00:13"
+title: Manuel Toharia vindrà en setembre a parlar-nos de pensament, felicitat, ciència i pseudociència
+date: "2017-07-03T00:13"
 layout: post
-path: "/toharia-vd/"
+path: "/toharia/"
 category: ""
-description: "Ja podeu veure el video de la conferència de Manuel Toharia"
+description: "El 22 de setembre a les 19'30 h. Centre Cultural Caixa Ontinyent. C/Gomis, 3. Ontinyent."
 ---
-
-<a href="https://www.youtube.com/watch?v=4c4bIMobmr0&t=28s" target="_blank">Video de la conferència de Manuel Toharia.</a>
-
-
- No oblideu posar "m'agrada", subscriure-vos al canal per rebre nous vídeos, deixar un comentari i compartir amb els vostres amics.
+El famós físic i polifacètic divulgador científic, director del Museu de la Ciència de València,  vindrà al Centre Cultural Caixa Ontinyent a donar una xarrada organitzada per l'Associació per a l'humanisme.
+Ens parlarà de pensament, felicitat, ciència i pseudociència.
