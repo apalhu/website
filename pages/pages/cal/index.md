@@ -5,23 +5,17 @@ layout: page
 path: "/cal"
 ---
 
+**Dijous 22 de març** a les 19:30 en el pub Emili d'Ontinyent.
 
-**17 Novembre 2017**, a les 18'00 en el Col·legi Major Rector Peset. Plaça Forn de Sant Nicolau, 4. València
+Club de lectura:
 
-Conferència "Humanismo y Laicismo: una visión racional, crítica, científica y ética de la vida".
-
-Membres de la Federació Humanista Europea parlaran sobre l'humanisme en el món, en Espanya, i en la ciutat de Valènncia, on està formant-se el col·lectiu Humanistes de València.
-
-**15 Desembre 2017**, a les 19'30 en el Centre Cultural Caixa Ontinyent, C/ Gomis, 3. Ontinyent
-
-Conferència "L'Homo Sapiens hui i demà"
-
-Conferència a càrrec de Rafael Sentandreu, Catedràtic de Microbiologia i Professor Emèrit, Unversitat de València.
-Acadèmic de Número, Real Academia Nacional de Farmacia.
+Et proposem un club de lectura diferent: cadascú portarà un llibre que li haja influit en la seua visió del món.
+Després comentarem les diferents experiències.
 
 
-**9 Gener 2018**, a les 19'30 en el Pub Emili. C/ Joan XXIII, 1. Ontinyent
 
-Club de lectura
+**5 d'Abril 2018** a les 20:30 al Irish Pub d'Ontinyent.
 
-Comentarem el llibre "Homo Deus", de Yuval Noah Harari.
+Tertúlia humanista:
+
+Tertúlia oberta a tot el món, i a tots els temes. Cada primer dijous de mes, de 20:00 a 21:30 en el Irish Pub d'Ontinyent. Després qui vulga pot quedar-se a sopar.
