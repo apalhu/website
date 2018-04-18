@@ -9,6 +9,9 @@ description: ""
 
 Una tradició molt interessant, que fomenta el diàleg, l'intercanvi d'idees i el plaer de la conversa.
 
-Cada primer dijous de mes, de 20:00 a 21:30 en el Irish Pub d'Ontinyent. Oberta a tot el món i a tots els temes.
+**3 de Maig 2018** a les 20:00 hores tertúlia al Café l'Arjama d'Ontinyent.
+
+Tertúlia oberta a tot el món, i a tots els temes.
+Cada primer dijous de mes, de 20:00 a 21:30 al Café l'Arjama d’Ontinyent.
 
 Després qui vulga pot quedar-se a sopar.
