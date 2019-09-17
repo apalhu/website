@@ -3,10 +3,14 @@
 ## Devel
 
 ## Install
+$ sudo npm install -g gatsby-cli
 `git clone `
+
+
 ## Running in development
 `gatsby develop`
 
+$ ./node_modules/.bin/gatsby develop
 
 ## License and rights
 Developed using [gatsby](https://github.com/gatsbyjs/gatsby) and the

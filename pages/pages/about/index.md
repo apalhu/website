@@ -5,7 +5,9 @@ path: "/about"
 ---
 
 
-  L'Associació per a l'humanisme es localitza en la Vall d'Albaida i voltants. Es membre de la Federació Humanista Europea. Pots contactar amb nosaltres en el correu apalhu.org@gmail.com
+  L'Associació per a l'humanisme es localitza en la Vall d'Albaida i voltants. Es membre de la <a href="http://humanistfederation.eu" target="_blank">Federació Humanista Europea</a>, de la <a href="https://iheu.org" target="_blank">International Humanist and Ethical Union</a>, i de <a href="https://www.atheistalliance.org/" target="_blank">Atheist Alliance International</a>. 
+
+  Pots contactar amb nosaltres en el correu apalhu.org@gmail.com
   Podeu veure les més de 60 associacions europees ací: <a href="http://humanistfederation.eu/membres.php" target="_blank">Llistat d'associacions de la Federació Humanista Europea</a>
 
   Les activitats que realitza són:
