@@ -6,7 +6,7 @@ slug: "/posts/mulet20180418/"
 category: "conferència"
 tags:
   - "Ciencia"
-  - "Mulet"
+  - "J.M. Mulet"
 description: "1 de juny, al Centre Cultural Caixa Ontinyent."
 ---
 
