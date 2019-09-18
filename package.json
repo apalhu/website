@@ -4,6 +4,7 @@
   "description": "APALHU Website powered by gatsby-starter-lumen",
   "main": "n/a",
   "scripts": {
+    "upload": "gh-pages -d public",
     "develop": "yarn run clean && gatsby develop",
     "build": "yarn run clean && gatsby build",
     "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public",
