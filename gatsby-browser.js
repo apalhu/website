@@ -1,8 +1,4 @@
-import ReactGA from 'react-ga'
-import {config} from 'config'
+'use strict';
 
-ReactGA.initialize(config.googleAnalyticsId);
-
-exports.onRouteUpdate = (state, page, pages) => {
-  ReactGA.pageview(state.pathname);
-};
+require('./src/assets/scss/init.scss');
+require('./static/css/prismjs/theme.min.css');
