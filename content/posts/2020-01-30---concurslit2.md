@@ -1,0 +1,48 @@
+---
+title: Ferran Abad, guanyador del I Concurs de Literatura Humanista
+date: "2020-01-30T19:30"
+template: "post"
+draft: false
+slug: "/posts/concurslit20200130/"
+category: "Comunicat"
+tags:
+  - "Concurs"
+description: "El relat 'Reflexió final', de Ferran Abad, guanyador del I Concurs de Literatura Humanista d'Apalhu."
+---
+
+## Reflexió final
+> Ferran Abad
+
+D’ací a quaranta minuts estaré ajustant-me el cinturó de seguretat i atent a les indicacions del personal de la centraleta. Ara, mentre m’acabe de conscienciar del que faig, escric açò per a fer-ho més entretingut. 
+
+Si faig aquesta feina és només perquè no tinc res millor a fer, i perquè ja feia temps que volia posar una data per anar me'n.
+
+No m’agradaria quedar-me veient el panorama actual. La depressió regna sobre la població, no només ací, sinó a tot el món.
+
+Per què voldria algú posar-se a treballar en una matèria concreta, si a part de difícil, a causa de l’escassetat de recursos, és inútil? Per a què serviria ara el descobriment més transcendent, o la millor de les cançons, o la millor de les novel·les?  Hui en dia es pot compondre la més bella melodia, o la més horrible, que no hi haurà diferència. Fa soroll l’arbre que cau si ningú l’escolta? A ningú li interessa. Si ningú l’escolta ningú ho recorda, i aleshores aquesta idea desapareix a l’instant. I encara que hui algú l’escoltara, en un futur pròxim ningú ho recordarà.
+
+Les crisis i les guerres, a causa dels desplaçaments pel clima o pels recursos, ja s’han acabat. El que queda és només la decadència de la societat i de la humanitat sencera. El progrés i el creixement ja s’aturaren fa temps, però no fou fins fa poc que la minvant i envellida població mundial començà a experimentar el buit més absolut en les seues vides. A tots ens ha passat, en major o menor mesura. No crec que encara hi haja gent entusiasmada de la vida i fent plans de futur.
+
+És curiós com l’humà necessita una meta on arribar, un camí per recórrer i, després, un reconeixement del grup i de les pròximes generacions. Si bé al segle XV no tenien ni la meitat de la tecnologia i els coneixements actuals, aquella gent abrigava l’entusiasme de progressar i de descobrir nous avanços, i si no tenien l’oportunitat, passaven simplement amb l’esperança que la seua descendència viuria millor vida.
+
+Ara el progrés ja no té sentit, sense la motivació ni els recursos materials suficients. A més tots sabem que el futur nostre i el dels nostres fills serà més dur amb el pas del temps.
+
+En realitat tots sempre hem sabut, i anteriorment les nosaltres generacions passades també, que arribaria aquest moment en la història de la humanitat, però totes aquestes generacions van seguir vivint despreocupadament, pensant que això ni a ells ni als seus fills els tocaria viure-ho. 
+
+Finalment, ha arribat el dia, i a mi m’ha tocat estar ací per a presenciar-ho.
+
+Tants intents d’expandir-se més enllà de la Terra per a no morir junt a aquesta... Sondes en busca de vida extraterrestre, missions a Mart i a altres planetes més llunyans per tal de terraformar-los i d’establir-hi colònies humanes, inclús càpsules espacials no tripulades amb tot tipus d’informació sobre la Terra dirigits a tots i cada un dels planetes descoberts amb una mínima possibilitat de vida, intel·ligent o no... Intents fallits. Les missions fracassaren i tots sabem que les càpsules o bé es perdran pel buit de l’espai o bé desapareixeran sota les dunes de qualsevol planeta. 
+
+Tot això per intentar perdurar en el temps: el que la humanitat sempre ha intentat fer directament o indirecta, però que des de la prehistòria fins al 2465 l’espècie humana ha procurat, pintant pintures en coves o enviant sondes a l’espai.
+
+La poca gent que encara manté una cega esperança de perdurar en el temps, i que a més s’ho ha pogut permetre, s’embarca en un viatge espacial cap a un planeta possiblement habitable i espera romandre tots els anys del viatge en una espècie d’hibernació.
+
+No arribarem. La hibernació no funciona. Jo ho sé, i la majoria d’ells també. El viatge és massa llarg i les persones no viuen tant. I tot açò si la vella nau en què anem no rebenta en enlairar-se.
+
+Però no obstant, ací som, a cinc minuts de pujar al coet espacial. I jo el primer, com a comandant.
+
+I és que, tot i tenint clar que no complirem el propòsit del viatge, allà anem, si bé el propòsit no ha sigut des del principi fixar una data, encoberta amb el fet que despertarem en arribar a la terra promesa, sinó tancar els ulls i no obrir-los mai més. Ara ja he de marxar, els copilots m’esperen. Com que aquest escrit ja no l’ha de llegir ningú i només m’ha servit per a fer aquesta mitja hora menys estressant, el llançaré sota els motors del coet, i que passe a millor vida. 
+
+Sort a qui es queda en el planeta on ha nascut i ha mort una civilització. 
+
+Adeu.

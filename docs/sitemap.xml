@@ -5,8 +5,8 @@
 <url> <loc>http://www.apalhu.org/website/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/pages/cal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/pages/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.apalhu.org/website/pages/declaracio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.apalhu.org/website/pages/declaracio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/pages/links/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/posts/first/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/posts/obama/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -24,6 +24,7 @@
 <url> <loc>http://www.apalhu.org/website/posts/voluntariat20181128/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/posts/voluntariat20190910/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/posts/concurslit20191022/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.apalhu.org/website/posts/concurslit20200130/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/tag/ciencia</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/tag/concurs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/tag/j-m-mulet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -35,10 +36,12 @@
 <url> <loc>http://www.apalhu.org/website/category/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/category/comunicat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/category/comunicat/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.apalhu.org/website/category/comunicat/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/category/trobada</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/category/conferencia</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.apalhu.org/website/page/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.apalhu.org/website/page/4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
